@@ -6,7 +6,7 @@ const char* ssid = "pw:-123456789";
 const char* password = "123456789";
 
 const char* serverName = "http://api.thingspeak.com/update";
-String apiKey = "C7QLG8IFLF1QA4S6";
+String apiKey = "YourAPI KEY";
 
 
 
